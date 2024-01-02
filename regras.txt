@@ -1,0 +1,42 @@
+Conteudo do Jogo
+
+11 Pistas (incluindo 2 pistas com cursos de água)
+86 Cartas , sendo 81 cartas de Corrida (18 lebres, 17 tartarugas, 16 lobos, 15 raposas, 15 cordeiros), 5 cartas de Aposta Inicial
+1 Marcador de Primeiro Jogador
+
+Preparação
+
+Após baralhar as 5 cartas, são distribuidas 2 cartas para cada jogador. As cartas da Aposta Inicial são as cartas essenciais para o jogador pontuar
+
+O Jogo
+
+Em turnos e em sentido horário, o jogador que tiver o Marcador de Primeiro jogador joga até 4 cartas do mesmo animal. Quando estiverem 4 cartas do mesmo animal ou 8 cartas no total jogadas, inicia-se a fase de Corrida
+Após o jogador colocar as suas cartas em campo, terá que ir buscar o mesmo número de cartas que jogou ao baralho
+
+Fase de Corrida
+
+Se de 1 a 4 cartas da Lebre forem jogadas, a Lebre avança 2 Pistas
+Exceto se 4 cartas de Lebre forem jogadas quando a lebre estiver em primeiro lugar, ou mesmo se ela estiver empatada em primeiro. Nesse caso, ela não avança, porque foi tirar um "cochilo". Ignore essa regra se ela ainda estiver na linha de partida.
+
+Se de 0 a 3 cartas de Tartaruga forem jogadas, a tartaruga avança 1 Pista
+Se 4 cartas de Tartaruga forem jogadas, a tartaruga avança 2 Pistas
+
+Se de 1 a 2 cartas de Lobo forem jogadas, o lobo avança 1 Pista
+Se de 3 a 4 cartas de Lobo forem jogadas, o lobo avança a quantidade de Pistas igual ao número de cartas de Lobo jogadas menos 1
+Entre as cartas de Lobo, há 3 cartas com um símbolo de Uivo. Se pelo menos uma delas for jogada por qualquer jogador, então apenas o Lobo irá se mover durante a próxima fase de Corrida
+
+A raposa avança o mesmo número de Pistas que o número de cartas de Raposa jogadas
+
+O cordeiro avança o mesmo número de Pistas que o número de cartas de Cordeiro jogadas mais 1
+No entanto, o cordeiro não resiste a uma água fresca, e ele interrompe o seu movimento assim que chega a uma Pista com um curso de água
+
+
+Ao terminar a rodada, o marcador de Primeiro Jogador será passado para o outro jogador, tornando esse o primeiro jogador dessa rodada
+
+Fim do Jogo
+
+Assim que qualquer animal cruzar a linha de chegada será de imediato atribuído o maior lugar disponível no pódio
+O jogo termina quando 3 animais chegarem ao Pódio
+Dependendo da sua colocação no pódio, os animais dão pontos de vitório para os jogadores que apostaram neles, sendo o primeiro lugar 5 pontos, o segundo 3, e o terceiro 2
+Cada jogador soma os seus pontos e quem tiver a maior pontuação vence
+Caso haja empate, vence quem tiver o animal com maior posição no pódio.

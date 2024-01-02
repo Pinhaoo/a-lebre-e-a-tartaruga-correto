@@ -1,0 +1,3 @@
+(x,x,x,x,x,x,x,x,x,x,x,x,x,x,L,T,C,C,C,C,R,T,W,T,L,W,W,T,C,W,L,L,C,R,T,R,W,R,w,R,R,R,W,T,L,L,C,R,L,T,R,T,C,C,R,C,L,L,R,T,T,L,C,L,W,R,T,R,L,R,R,T,C,L,w,L,T,W,C,W,C)
+ Daniel ->  T, L, C, W, W, w, T 
+ Fuso ->  T, W, W, L, L, L, T 
